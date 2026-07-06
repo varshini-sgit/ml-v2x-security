@@ -106,26 +106,11 @@ A key finding from the analysis was that **GeoNetworking payload length** emerge
 ## Repository Structure
 ```bash
 .
-├── data/
-├── notebooks/
+├── image_results/
 ├── src/
-├── images/
-├── report/
-├── results/
-└── README.md
+├── README.md
+└── dataset.txt
 ```
-
-## Suggested Files to Include
-To make this repository stronger, include:
-
-- Final project report PDF
-- Jupyter notebooks or Python scripts
-- `requirements.txt`
-- Screenshots of:
-  - title/abstract page
-  - key results
-  - SHAP plot
-  - workflow or methodology diagram
 
 ## Learning Outcomes
 Through this project, the following areas were strengthened:
@@ -149,6 +134,3 @@ Possible next steps for this work include:
 **Varshini Shashi Kumar**  
 MSc Data Analytics, National College of Ireland
 LinkedIn: [https://www.linkedin.com/in/varshini-s-02ba11210/]
-
-## Project Note
-This repository showcases an academic machine learning project developed in the context of V2X network security and connected vehicle communication. It reflects both technical implementation and domain-specific understanding of automotive cybersecurity challenges.
