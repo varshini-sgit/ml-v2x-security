@@ -1,1 +1,5 @@
+Dataset 1: V2X Intrusion detection Kaggle: 
+https://www.kaggle.com/datasets/hassan06/nslkdd
 
+Dataset 2: BME V2X PKI Authentication Detection: 
+https://zenodo.org/records/8429962?preview_file=v2x-dataset.zip
